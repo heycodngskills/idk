@@ -1,0 +1,7 @@
+{
+  "name": "backstage-confluence-leak-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "dependencies": {}
+}
